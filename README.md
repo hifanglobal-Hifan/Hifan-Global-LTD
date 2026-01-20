@@ -48,17 +48,27 @@ npm run build
 *   This folder contains everything needed for the live site.
 
 ### 2. Deploy to Namecheap (cPanel)
-1.  **Locate the `out` folder**: After building, go to your project root.
-2.  **Zip the contents**: Open the `out` folder, select **ALL** files and folders inside it, and compress them into a `.zip` file.
+
+#### A. USA Website (`hifanglobal.org`)
+1.  **Locate the `out` folder**: After building (`npm run build`), go to your project root.
+2.  **Zip the contents**: specific for the USA version.
 3.  **Upload**:
-    *   Log in to **Namecheap cPanel** > **File Manager**.
-    *   Navigate to your domain's folder (e.g., `/hifanglobal.org`).
-    *   **Delete** any old files in that folder.
-    *   **Upload** your new `.zip` file.
-4.  **Extract**:
-    *   Right-click the uploaded zip and select **Extract**.
-    *   Ensure the files (like `index.html`) are directly in the domain folder, not inside a subfolder.
-5.  **Verify**: Visit your website URL.
+    *   Navigate to **File Manager** > **`hifanglobal.org`** folder.
+    *   Upload and Extract your zip file here.
+
+#### B. UK Website (`hifanglobal.uk`)
+1.  **Locate the `out` folder**: After building the UK version.
+2.  **Zip the contents**.
+3.  **Upload**:
+    *   Navigate to **File Manager** > **`public_html`** (Main Domain root).
+    *   **Important**: Do not upload to a subfolder like `hifanglobal.uk`. Use `public_html` directly.
+    *   Upload and Extract your zip file here.
+
+#### General Steps
+1.  **Delete** old files in the target folder before extracting.
+2.  **Extract** the zip file.
+3.  **Verify** files (like `index.html`) are in the root of the target folder.
+4.  **Visit** the respective URL to verify.
 
 ---
 

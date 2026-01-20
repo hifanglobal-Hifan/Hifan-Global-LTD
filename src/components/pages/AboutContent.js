@@ -26,11 +26,11 @@ export default function AboutContent() {
                         Leading the Way in Business Excellence
                     </Typography>
                     <Typography variant="body1" sx={{ color: 'text.secondary', mb: 3, lineHeight: 1.8, textAlign: 'justify' }}>
-                        Hifan Global LLC is a U.S.-registered professional services and consulting firm headquartered in Delaware, USA. We provide integrated solutions in IT services, marketing services and consultancy, business formation services, accounting and bookkeeping, and management consulting, supporting businesses at every stage of growth.
+                        Hifan Global LTD is a UK-registered professional services and consulting firm headquartered in London, UK. We provide integrated solutions in IT services, marketing services and consultancy, business formation services, accounting and bookkeeping, and management consulting, supporting businesses at every stage of growth.
 
                         We work closely with entrepreneurs, startups, SMEs, and established organizations to build strong operational foundations, improve efficiency, and enable sustainable expansion. Our approach combines strategic thinking, modern technology, and practical execution to deliver tailored solutions aligned with international business standards.
 
-                        At Hifan Global LLC, we believe in empowering businesses to move forward with clarity and confidence—transforming potential into measurable performance.
+                        At Hifan Global LTD, we believe in empowering businesses to move forward with clarity and confidence—transforming potential into measurable performance.
 
                     </Typography>
                     <Typography variant="body1" sx={{ color: 'text.secondary', lineHeight: 1.8 }}>

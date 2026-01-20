@@ -134,17 +134,10 @@ export default function ContactContent() {
                                     { icon: <EmailIcon />, title: 'Email Us', detail: 'info@hifanglobal.com', color: 'primary.main' },
                                     {
                                         icon: <LocationOnIcon />,
-                                        title: 'Delaware Office',
-                                        detail: '8 The green, Dover, DE 19901',
-                                        phone: '+1 (302) 201 8910',
+                                        title: 'UK Office',
+                                        detail: 'Suite C163 4 - 6, Greatorex Street, London, E1 5NF',
+                                        phone: '+44 7856 228013',
                                         color: 'secondary.main'
-                                    },
-                                    {
-                                        icon: <LocationOnIcon />,
-                                        title: 'California Office',
-                                        detail: '1305 E 9th st, Upland, CA 91786',
-                                        phone: '+1 (909) 527 0360',
-                                        color: 'primary.main'
                                     },
                                     { icon: <AccessTimeIcon />, title: 'Working Hours', detail: 'Mon - Fri: 9:00 AM - 6:00 PM', color: 'secondary.main' },
                                 ].map((item, idx) => (

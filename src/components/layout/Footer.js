@@ -70,14 +70,10 @@ const Footer = () => {
                     <Grid item xs={12} md={3}>
                         <Typography variant="h6" sx={{ mb: 1.7, fontWeight: 700, color: 'secondary.main' }}>Contact Info</Typography>
                         <Box sx={{ mb: 2 }}>
-                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>Delaware Office:</Typography>
-                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>8 The green, Dover, DE 19901</Typography>
-                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>+1 (302) 201 8910</Typography>
-                        </Box>
-                        <Box sx={{ mb: 2 }}>
-                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>California Office:</Typography>
-                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>1305 E 9th st, Upland, CA 91786</Typography>
-                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>+1 (909) 527 0360</Typography>
+                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>UK Office:</Typography>
+                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>Suite C163 4 - 6, Greatorex Street</Typography>
+                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>London, United Kingdom E1 5NF</Typography>
+                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>+44 7856 228013</Typography>
                         </Box>
                         <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>info@hifanglobal.com</Typography>
                     </Grid>
@@ -87,7 +83,7 @@ const Footer = () => {
 
                 <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 2 }}>
                     <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.5)' }}>
-                        © 2024 Hifan Global. All rights reserved.
+                        © 2024 Hifan Global LTD. All rights reserved.
                     </Typography>
                     <Box sx={{ display: 'flex', gap: 3 }}>
                         <MuiLink component={Link} href="/privacy-policy" sx={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none', fontSize: '0.8rem', '&:hover': { color: '#fff' } }}>

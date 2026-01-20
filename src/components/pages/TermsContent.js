@@ -41,15 +41,15 @@ const TermsContent = () => {
                     </Typography>
 
                     <Typography variant="body1" paragraph>
-                        Welcome to Hifan Global LLC (“Company”, “we”, “our”, “us”). By accessing or using our website, services, or communicating with us through any digital channel, you agree to be bound by these Terms of Service (“Terms”). If you do not agree, please do not use our website or services.
+                        Welcome to Hifan Global LTD (“Company”, “we”, “our”, “us”). By accessing or using our website, services, or communicating with us through any digital channel, you agree to be bound by these Terms of Service (“Terms”). If you do not agree, please do not use our website or services.
                     </Typography>
 
                     <Box component="section" sx={{ mb: 4 }}>
                         <Typography variant="h5" sx={{ fontWeight: 700, mb: 2, color: 'primary.main' }}>
-                            1. About Hifan Global LLC
+                            1. About Hifan Global LTD
                         </Typography>
                         <Typography variant="body1" paragraph>
-                            Hifan Global LLC is a consultancy and services company registered in Delaware, USA. Our services include, but are not limited to:
+                            Hifan Global LTD is a consultancy and services company registered in the United Kingdom. Our services include, but are not limited to:
                         </Typography>
                         <ul style={{ paddingLeft: '20px', marginBottom: '16px', color: '#555' }}>
                             <li>Immigration and visa consultancy</li>

@@ -41,7 +41,7 @@ const PrivacyContent = () => {
                     </Typography>
 
                     <Typography variant="body1" paragraph>
-                        Hifan Global LLC respects your privacy and is committed to protecting your personal information.
+                        Hifan Global LTD respects your privacy and is committed to protecting your personal information.
                     </Typography>
 
                     <Box component="section" sx={{ mb: 4 }}>

@@ -131,7 +131,7 @@ export default function ContactContent() {
                             </Typography>
                             <Stack spacing={4}>
                                 {[
-                                    { icon: <EmailIcon />, title: 'Email Us', detail: 'info@hifanglobal.com', color: 'primary.main' },
+                                    { icon: <EmailIcon />, title: 'Email Us', detail: 'hifanglobaluk@gmail.com', color: 'primary.main' },
                                     {
                                         icon: <LocationOnIcon />,
                                         title: 'UK Office',

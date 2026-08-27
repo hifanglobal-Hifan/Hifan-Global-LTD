@@ -125,7 +125,7 @@ export default function HomeContent() {
 
     const testimonials = [
         {
-            feedback: "Hifan Global LLC delivered a reliable IT solution that improved our system efficiency and reduced operational issues. Their team was responsive and technically sound.",
+            feedback: "Hifan Global LTD delivered a reliable IT solution that improved our system efficiency and reduced operational issues. Their team was responsive and technically sound.",
             name: "Sammy G",
             role: "IT Services"
         },
@@ -516,7 +516,7 @@ export default function HomeContent() {
                             Practical Solutions, <span style={{ color: theme.palette.secondary.main }}>Measurable Results</span>
                         </Typography>
                         <Typography variant="body1" sx={{ color: 'text.secondary', lineHeight: 1.8 }}>
-                            At Hifan Global LLC, we focus on delivering practical solutions backed by expertise, structure, and accountability.
+                            At Hifan Global LTD, we focus on delivering practical solutions backed by expertise, structure, and accountability.
                         </Typography>
                     </Box>
 
@@ -525,7 +525,7 @@ export default function HomeContent() {
                             Hifan Global defines itself through <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>Multi-Disciplinary Expertise</Box>, acting as your single partner for IT, marketing, and business consultancy. We combine <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>Strategic & Practical</Box> approaches, ensuring long-term planning meets hands-on execution.
                         </Typography>
                         <Typography variant="body1" sx={{ lineHeight: 2, color: 'text.secondary' }}>
-                            Operating as a <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>U.S.-Registered</Box> entity, we maintain high standards of <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>Transparency</Box> and ethics. Above all, we are <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>Client-Focused</Box>, tailoring every engagement to your specific goals and industry.
+                            Operating as a <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>UK-Registered</Box> entity, we maintain high standards of <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>Transparency</Box> and ethics. Above all, we are <Box component="span" sx={{ fontWeight: 800, color: 'primary.main' }}>Client-Focused</Box>, tailoring every engagement to your specific goals and industry.
                         </Typography>
                     </Box>
                 </Container>

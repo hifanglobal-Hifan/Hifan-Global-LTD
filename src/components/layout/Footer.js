@@ -70,12 +70,21 @@ const Footer = () => {
                     <Grid item xs={12} md={3}>
                         <Typography variant="h6" sx={{ mb: 1.7, fontWeight: 700, color: 'secondary.main' }}>Contact Info</Typography>
                         <Box sx={{ mb: 2 }}>
-                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>UK Office:</Typography>
+                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>UK Office</Typography>
                             <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>Suite C163 4 - 6, Greatorex Street</Typography>
                             <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>London, United Kingdom E1 5NF</Typography>
+                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>Company No.</Typography>
+                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}> 16874470</Typography>
+                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>Contact</Typography>
                             <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>+44 7856 228013</Typography>
+                             <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>Email</Typography>
+                            <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>hifanglobaluk@gmail.com</Typography>
+                            <Typography variant="subtitle2" sx={{ color: 'secondary.main', fontWeight: 800 }}>Website</Typography>
+                            <MuiLink href="https://hifanglobal.uk/" target="_blank" rel="noopener noreferrer" sx={{ color: 'rgba(255,255,255,0.8)', textDecoration: 'none', display: 'block', '&:hover': { color: 'secondary.main' } }}>
+                                https://hifanglobal.uk/
+                            </MuiLink>
                         </Box>
-                        <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.8)' }}>info@hifanglobal.com</Typography>
+                       
                     </Grid>
                 </Grid>
 
@@ -83,7 +92,7 @@ const Footer = () => {
 
                 <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 2 }}>
                     <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.5)' }}>
-                        © 2024 Hifan Global LTD. All rights reserved.
+                        © 2026 Hifan Global LTD. All rights reserved.
                     </Typography>
                     <Box sx={{ display: 'flex', gap: 3 }}>
                         <MuiLink component={Link} href="/privacy-policy" sx={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none', fontSize: '0.8rem', '&:hover': { color: '#fff' } }}>
@@ -91,6 +100,12 @@ const Footer = () => {
                         </MuiLink>
                         <MuiLink component={Link} href="/terms-of-service" sx={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none', fontSize: '0.8rem', '&:hover': { color: '#fff' } }}>
                             Terms of Service
+                        </MuiLink>
+                        <MuiLink component={Link} href="/refund-policy" sx={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none', fontSize: '0.8rem', '&:hover': { color: '#fff' } }}>
+                            Refund Policy
+                        </MuiLink>
+                        <MuiLink component={Link} href="/pricing-service-delivery" sx={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none', fontSize: '0.8rem', '&:hover': { color: '#fff' } }}>
+                            Pricing & Service Delivery
                         </MuiLink>
                     </Box>
                 </Box>

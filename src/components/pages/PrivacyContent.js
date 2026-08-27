@@ -164,7 +164,7 @@ const PrivacyContent = () => {
                             For privacy-related inquiries:
                         </Typography>
                         <Typography variant="body1">
-                            Email: <a href="mailto:privacy@hifanglobal.com" style={{ color: '#F39C12', textDecoration: 'none' }}>privacy@hifanglobal.com</a>
+                            Email: <a href="mailto:hifanglobaluk@gmail.com" style={{ color: '#F39C12', textDecoration: 'none' }}>hifanglobaluk@gmail.com</a>
                         </Typography>
                     </Box>
 

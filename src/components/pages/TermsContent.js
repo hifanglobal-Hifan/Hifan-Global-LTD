@@ -128,7 +128,7 @@ const TermsContent = () => {
                             6. Intellectual Property
                         </Typography>
                         <Typography variant="body1">
-                            All website content, including text, logos, designs, graphics, and materials, is the property of Hifan Global LLC and may not be copied, reproduced, or distributed without written consent.
+                            All website content, including text, logos, designs, graphics, and materials, is the property of Hifan Global LTD and may not be copied, reproduced, or distributed without written consent.
                         </Typography>
                     </Box>
 
@@ -137,7 +137,7 @@ const TermsContent = () => {
                             7. Limitation of Liability
                         </Typography>
                         <Typography variant="body1" paragraph>
-                            To the maximum extent permitted by law, Hifan Global LLC shall not be liable for:
+                            To the maximum extent permitted by law, Hifan Global LTD shall not be liable for:
                         </Typography>
                         <ul style={{ paddingLeft: '20px', marginBottom: '16px', color: '#555' }}>
                             <li>Indirect, incidental, or consequential damages</li>
@@ -172,7 +172,7 @@ const TermsContent = () => {
                             10. Governing Law
                         </Typography>
                         <Typography variant="body1">
-                            These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, USA, without regard to conflict-of-law principles.
+                            These Terms shall be governed by and construed in accordance with the laws of England and Wales, without regard to conflict-of-law principles.
                         </Typography>
                     </Box>
 
@@ -190,10 +190,10 @@ const TermsContent = () => {
                             12. Contact Information
                         </Typography>
                         <Typography variant="body1" sx={{ mb: 1 }}>
-                            For questions regarding these Terms: Hifan Global LLC
+                            For questions regarding these Terms: Hifan Global LTD
                         </Typography>
                         <Typography variant="body1">
-                            Email: <a href="mailto:info@hifanglobal.com" style={{ color: '#F39C12', textDecoration: 'none' }}>info@hifanglobal.com</a>
+                            Email: <a href="mailto:hifanglobaluk@gmail.com" style={{ color: '#F39C12', textDecoration: 'none' }}>hifanglobaluk@gmail.com</a>
                         </Typography>
                     </Box>
 
